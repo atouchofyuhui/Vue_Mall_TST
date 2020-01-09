@@ -1,0 +1,58 @@
+{
+  "id": "1604610",
+  "name": "Vue_Mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "vue练习项目，仿蘑菇街商城",
+  "glyphs": [
+    {
+      "icon_id": "1392043",
+      "name": "home",
+      "font_class": "61",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "3823830",
+      "name": "D",
+      "font_class": "D",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "4368904",
+      "name": "我 (1)",
+      "font_class": "wo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4944156",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7090027",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "9415903",
+      "name": "icon_category",
+      "font_class": "icon_category",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "11125624",
+      "name": "分类",
+      "font_class": "2",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
